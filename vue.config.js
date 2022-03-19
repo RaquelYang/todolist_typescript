@@ -12,8 +12,8 @@ module.exports = {
     manifestOptions: {
       name: "Todolist",
       shortname: "Todolist",
-      background_color: "#333",
-      theme_color: "#333",
+      background_color: "#eee",
+      theme_color: "#eee",
       scope: "./",
       start_url: "./",
       display: "standalone",
