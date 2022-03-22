@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.3c8d0167958d476bde9b962be1afc2c9.js"
+  "precache-manifest.d24dbe221d2ba1c7448bf896a0269c77.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "todolist_typescript"});
